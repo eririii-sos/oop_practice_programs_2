@@ -1,5 +1,5 @@
 # Ask user for input
-statement = input("Enter a complete statemennt: ")
+statement = input("Enter a complete statement: ")
 
 # Count the number of words
 word_count = len(statement.split())
